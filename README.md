@@ -13,9 +13,9 @@ Improvements:
    - HTML 2.3%
 
   This code language:
-   - TypeScript 62.5%
-   - JavaScript 29.1%
-   - CSS 8.4%
+   - TypeScript 85.0%
+   - JavaScript 3.5%
+   - CSS 11.5%
 
 2. NEXT.JS IMPLEMENTATION:
  Refactor the original React code into Next.js
