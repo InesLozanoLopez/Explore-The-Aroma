@@ -1,6 +1,6 @@
 # Explore The Aroma 2.0
 
-[This is the original project:](https://github.com/Pastlenomad/Explore-The-Aroma)
+[This is the original project](https://github.com/Pastlenomad/Explore-The-Aroma)
 
 ## To run this app:
 1. Clone the repository and open it in your preferred source code editor.
